@@ -572,8 +572,8 @@ const INIT_FOLDERS = [
 const INIT_USERS = [
   {
     id: genId(),
-    name: 'Demo User',
-    username: 'demouser',
+    name: 'Nashwan Baxtiar',
+    username: 'nashwanbaxtiar',
     color: '#2f6bff',
     initials: 'DU',
   },
